@@ -3,8 +3,8 @@
 **AI-powered business chat platform that learns from websites to provide intelligent customer service.**
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://query-hub-frontend.vercel.app)
-[![API Docs](https://img.shields.io/badge/API-Documentation-green?style=for-the-badge)](https://backend-production.up.railway.app/docs)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/your-username/queryhub)
+[![API Docs](https://img.shields.io/badge/API-Documentation-green?style=for-the-badge)](https://query-hub-backend-production.up.railway.app/docs)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/query-hub/core)
 
 > **✨ From simple form handler to AI-powered knowledge system** - QueryHub grows with your business needs through progressive MVPs.
 
@@ -14,7 +14,7 @@
 
 ```bash
 # Option 1: Local Development (Recommended)
-git clone https://github.com/your-username/queryhub.git
+git clone https://github.com/query-hub/core.git
 cd queryhub
 make local-setup    # Sets up Python + Node.js locally
 make local-start    # Starts all services without Docker
@@ -117,7 +117,7 @@ graph TB
 **Full setup with system dependencies:**
 ```bash
 # 1. Clone and setup
-git clone https://github.com/your-username/queryhub.git
+git clone https://github.com/query-hub/core.git
 cd queryhub
 
 # 2. Install system dependencies
@@ -599,9 +599,9 @@ We welcome contributions! Here's how to get started:
 
 ### **Bug Reports & Feature Requests**
 
-- **Bug Reports**: [Create an issue](https://github.com/your-username/queryhub/issues/new?template=bug_report.md)
-- **Feature Requests**: [Create an issue](https://github.com/your-username/queryhub/issues/new?template=feature_request.md)
-- **Questions**: [Start a discussion](https://github.com/your-username/queryhub/discussions)
+- **Bug Reports**: [Create an issue](https://github.com/query-hub/core/issues/new?template=bug_report.md)
+- **Feature Requests**: [Create an issue](https://github.com/query-hub/core/issues/new?template=feature_request.md)
+- **Questions**: [Start a discussion](https://github.com/query-hub/core/discussions)
 
 ### **Code Style & Standards**
 
@@ -641,8 +641,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **🌐 Live Demo**: [https://query-hub-frontend.vercel.app](https://query-hub-frontend.vercel.app)
 - **📚 API Documentation**: [https://query-hub-backend-production.up.railway.app/docs](https://query-hub-backend-production.up.railway.app/docs)  
-- **🐛 Issues**: [GitHub Issues](https://github.com/your-username/queryhub/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/your-username/queryhub/discussions)
+- **🐛 Issues**: [GitHub Issues](https://github.com/query-hub/core/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/query-hub/core/discussions)
 - **📖 Documentation**: [Full Documentation](https://query-hub-frontend.vercel.app/docs)
 
 ### **Community & Support**
